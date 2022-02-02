@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import Card from './Card'
-import '../scss/board.scss'
+import './scss/board.scss'
 
 
 type BoardProps = {

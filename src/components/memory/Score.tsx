@@ -1,4 +1,4 @@
-import '../scss/score.scss'
+import './scss/score.scss'
 
 type ScoreProps = {
   moves: number

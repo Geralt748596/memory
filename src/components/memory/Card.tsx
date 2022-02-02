@@ -1,5 +1,5 @@
 import classnames from 'classnames'
-import '../scss/card.scss'
+import './scss/card.scss'
 
 
 type CardProps = {
